@@ -51,8 +51,8 @@ body {
 }
 
 .text-box p {
-  margin: 0;
-  text-align: left;
+  text-align: center;
+  direction: rtl;
 }
 
 .text-box span {
